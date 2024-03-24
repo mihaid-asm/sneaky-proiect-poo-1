@@ -1,6 +1,6 @@
 # sneaky-proiect-poo-1
 Sneaky: The Game (2023-2024)
-Sneaky este un joc realizat de Duzi Mihai-Nicolae(grupa 152) in C++ folosind POO.
+este un joc realizat de Duzi Mihai-Nicolae(grupa 152) in C++ folosind POO.
 Scopul jocului este sa colectati un numar suficient de iteme fara a fi surprinsi de inamici(marcati cu litere mari diferite de P).
 Atat jucatorul(marcat cu litera P), cat si monstrii/inamicii au un "Health", un "Damage" si un "Range".
 Daca jucatorul intra in range-ul unui monstru, acesta pierde atata "Health" cat damage are inamicul.
